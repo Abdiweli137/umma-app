@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Abdiwelizo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/emerald_light</item>
+        <item name="colorPrimaryVariant">@color/emerald_primary</item>
+        <item name="colorOnPrimary">@color/emerald_dark</item>
+        <item name="colorSecondary">@color/gold_accent</item>
+        <item name="colorOnSecondary">@color/neutral_dark</item>
+        <item name="android:colorBackground">@color/neutral_dark</item>
+        <item name="colorSurface">#181C19</item>
+        <item name="colorOnSurface">@color/surface_light</item>
+        <item name="android:statusBarColor">#101411</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

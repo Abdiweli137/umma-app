@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_primary">#004D25</color>
+    <color name="emerald_light">#14A350</color>
+    <color name="emerald_dark">#002B13</color>
+    <color name="emerald_surface">#F1F8F4</color>
+    <color name="gold_accent">#D4AF37</color>
+    <color name="neutral_dark">#1A1C19</color>
+    <color name="neutral_grey">#707972</color>
+    <color name="background_light">#F8FBF8</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant">#E2E9E4</color>
+</resources>
